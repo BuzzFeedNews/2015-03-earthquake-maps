@@ -12,7 +12,7 @@ The USGS provides the ability to search for earthquake events in its online tool
 
 In order to make the earthquake maps you need state shapefiles. These were downloaded from the U.S. Census:
 
-- stateshapes directory including: arkansas, kansas, oklahoma, and texas
+- [stateshapes directory](https://github.com/BuzzFeedNews/2015-03-earthquake-maps/tree/master/data/stateshapes) including: arkansas, kansas, oklahoma, and texas
 
 ## Analysis
 
