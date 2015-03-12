@@ -1,0 +1,6 @@
+fiona
+pyproj
+svgwrite
+ipython
+pandas
+matplotlib
